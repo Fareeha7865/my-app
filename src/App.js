@@ -16,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          we are learning the React website deploy! 
           Learn React
         </a>
       </header>
